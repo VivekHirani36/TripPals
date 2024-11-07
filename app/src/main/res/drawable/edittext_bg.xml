@@ -1,0 +1,20 @@
+<!-- res/drawable/edittext_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color for the input field -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- More rounded corners -->
+    <corners android:radius="16dp" />
+
+    <!-- Border for the input field with a greenish contrast -->
+    <stroke
+        android:width="2dp"
+        android:color="#4CAF50" /> <!-- This is a green color, adjust as needed -->
+
+    <!-- Padding for inner spacing -->
+    <padding
+        android:left="12dp"
+        android:top="12dp"
+        android:right="12dp"
+        android:bottom="12dp"/>
+</shape>

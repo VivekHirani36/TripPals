@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61957516152",
+    "project_id": "trippals-97ac6",
+    "storage_bucket": "trippals-97ac6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61957516152:android:0fff932ac0e97a73ecb68d",
+        "android_client_info": {
+          "package_name": "com.example.trippals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyUwC-sWXjRv9T9FFSG2seayQ7F0MIhQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
